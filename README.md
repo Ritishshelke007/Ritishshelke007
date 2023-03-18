@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="center" alt="Coding" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritishshelke007&label=Profile%20views&color=0e75b6&style=flat" alt="ritishshelke007" /> </p>
+<p align="left"> <img src="https://assets8.lottiefiles.com/packages/lf20_2glqweqs.json" alt="ritishshelke007" /> </p>
 
 
 - 📫 How to reach me **ritishshelke007@gmail.com**
