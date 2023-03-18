@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritish</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="center" alt="Coding" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-<p align="left"> <img src="https://assets8.lottiefiles.com/packages/lf20_2glqweqs.json" alt="ritishshelke007" /> </p>
+<img align="center" alt="Coding" width="300" src="https://tenor.com/view/code-its-fun-its-fun-code-programming-programmer-gif-19318850">
 
 
 - 📫 How to reach me **ritishshelke007@gmail.com**
