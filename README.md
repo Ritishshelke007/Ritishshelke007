@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhiNWNmYTZiN2Y4NmM1N2RkZDIzNDkxZTY0YzA5YzUxYzY1MTBiYSZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
