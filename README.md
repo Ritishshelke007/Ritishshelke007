@@ -65,9 +65,12 @@
 </table>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ritishshelke007&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ritishshelke007&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritishshelke007&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Ritishshelke007's Stats](https://github-readme-stats.vercel.app/api?username=Ritishshelke007&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+</br></br>
+![Ritishshelke007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritishshelke007&theme=nightowl&hide_border=true)
+<br/></br>
+![Ritishshelke007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritishshelke007&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ritishshelke007&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
