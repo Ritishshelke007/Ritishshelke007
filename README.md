@@ -11,6 +11,40 @@
 - 📫 How to reach me **ritishshelke007@gmail.com**
 - 📑 Want to talk? let's have a meet **https://cal.com/ritish-shelke**
 
+<h2 align="center"> 💻 Tech Stack: </h2>
+</br>
+<table align="center">
+<tr>
+<th>Description</th>
+<th>Tools</th>
+</tr>
+<tr>
+<td>Languages I Use</td>
+<td> 
+    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,python,html,css" />
+</td>
+</tr>
+<tr>
+<td>Libraries & Frameworks I Use</td>
+<td>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwindcss,express" />
+</td>
+</tr>
+<tr>
+<td>Databases I Use</td>
+<td> 
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</td>
+</tr>
+<tr>
+<td>Tools I Use</td>
+<td> 
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,appwrite,androidstudio" />
+</td>
+</tr>
+<tr>
+</tr>
+</table>
 
 <h2 align="center"> 🌐 Socials: </h2>
 
@@ -26,43 +60,6 @@
     </a>
     
 </div>
-
-<h2 align="center"> 💻 Tech Stack: </h2>
-</br>
-<table align="center">
-<tr>
-<th>Description</th>
-<th>Tools</th>
-</tr>
-<tr>
-<td>Languages I Use</td>
-<td> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,python,html,css" />
-  </a></td>
-</tr>
-<tr>
-<td>Libraries & Frameworks I Use</td>
-<td>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwindcss,express" />
-  </a>
-</td>
-</tr>
-<tr>
-<td>Databases I Use</td>
-<td> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a></td>
-</tr>
-<tr>
-<td>Tools I Use</td>
-<td> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,appwrite,androidstudio" />
-  </a></td>
-</tr>
-<tr>
-</tr>
-</table>
 
 ## 📊 GitHub Stats:
 ![Ritishshelke007's Stats](https://github-readme-stats.vercel.app/api?username=Ritishshelke007&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
