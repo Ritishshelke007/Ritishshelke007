@@ -19,13 +19,13 @@
 <tr>
 <td>Languages I Use</td>
 <td> 
-    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,python,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,ts,python,php,html,css" />
 </td>
 </tr>
 <tr>
 <td>Libraries & Frameworks I Use</td>
 <td>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwindcss,express" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwindcss,nodejs,express,redux" />
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@
 <tr>
 <td>Tools I Use</td>
 <td> 
-    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,appwrite,androidstudio,apache" />
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,appwrite,androidstudio," />
 </td>
 </tr>
 <tr>
