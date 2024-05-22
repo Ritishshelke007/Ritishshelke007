@@ -1,13 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ritish;A+Passionate+Frontend+Developer;Let's+connect+to+explore+Web+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ritish;A+Passionate+Full+Stack+Web+Developer;Let's+connect+to+explore+Web+World!)](https://git.io/typing-svg)
 <hr>
 
-<p align="center">
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/300/0*7Q3yvSIv_t0ioJ-Z.gif">
-</p> </br>
+</br>
 
-- 🚀 Check out my portfolio here 👉🏽 **https://ritish-portfolio.vercel.app**
+- 🚀 Check out my portfolio here 👉🏽 **https://ritish.me**
 - 📫 How to reach me **ritishshelke007@gmail.com**
 - 📑 Want to talk? let's have a meet **https://cal.com/ritish-shelke**
 
@@ -21,7 +19,7 @@
 <tr>
 <td>Languages I Use</td>
 <td> 
-    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,python,php,html,css" />
 </td>
 </tr>
 <tr>
@@ -39,7 +37,7 @@
 <tr>
 <td>Tools I Use</td>
 <td> 
-    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,appwrite,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,appwrite,androidstudio,apache" />
 </td>
 </tr>
 <tr>
