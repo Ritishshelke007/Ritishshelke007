@@ -3,12 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ritish;A+Passionate+Full+Stack+Web+Developer;Let's+connect+to+explore+Web+World!)](https://git.io/typing-svg)
 <hr>
 
-</br>
+</br></br>
 
 - 🚀 Check out my portfolio here 👉🏽 **https://ritish.me**
 - 📫 How to reach me **ritishshelke007@gmail.com**
 - 📑 Want to talk? let's have a meet **https://cal.com/ritish-shelke**
 
+</br>
 <h2 align="center"> 💻 Tech Stack: </h2>
 </br>
 <table align="center">
@@ -44,6 +45,8 @@
 </tr>
 </table>
 
+</br>
+
 <h2 align="center"> 🌐 Socials: </h2>
 
 <div id="badges" align="center">
@@ -58,6 +61,8 @@
     </a>
     
 </div>
+
+</br>
 
 ## 📊 GitHub Stats:
 ![Ritishshelke007's Stats](https://github-readme-stats.vercel.app/api?username=Ritishshelke007&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
