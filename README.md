@@ -37,7 +37,7 @@
 <tr>
 <td>Tools I Use</td>
 <td> 
-    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,appwrite,androidstudio," />
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,appwrite,androidstudio,postman" />
 </td>
 </tr>
 <tr>
