@@ -5,7 +5,7 @@
 
 </br></br>
 
-- 🚀 Check out my portfolio here 👉🏽 **https://ritish.me**
+- 🚀 Check out my portfolio here 👉🏽 **https://ritish-dev.vercel.app/**
 - 📫 How to reach me **ritishshelke007@gmail.com**
 - 📑 Want to talk? let's have a meet **https://cal.com/ritish-shelke**
 
